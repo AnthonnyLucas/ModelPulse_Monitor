@@ -1,0 +1,45 @@
+{
+  "drift_irrelevante": {
+    "psi / 1 dia": {
+      "taxa_deteccao": 0.0,
+      "atraso_mediano_dias": null,
+      "atraso_p90_dias": null,
+      "atraso_max_dias": null,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "psi / 2 dias": {
+      "taxa_deteccao": 0.0,
+      "atraso_mediano_dias": null,
+      "atraso_p90_dias": null,
+      "atraso_max_dias": null,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "estat. / 2 dias": {
+      "taxa_deteccao": 0.5,
+      "atraso_mediano_dias": 3.0,
+      "atraso_p90_dias": 3.0,
+      "atraso_max_dias": 3,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.5
+    },
+    "ambos / 2 dias": {
+      "taxa_deteccao": 0.0,
+      "atraso_mediano_dias": null,
+      "atraso_p90_dias": null,
+      "atraso_max_dias": null,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "_meta": {
+      "inicio": 10,
+      "alvo": "tokens_prompt",
+      "n_seeds": 10
+    }
+  }
+}

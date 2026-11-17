@@ -1,0 +1,303 @@
+{
+  "controle": {
+    "psi / 1 dia": {
+      "taxa_deteccao": null,
+      "atraso_mediano_dias": null,
+      "atraso_p90_dias": null,
+      "atraso_max_dias": null,
+      "sementes_com_falso_alarme": 7,
+      "dias_falsos_por_semente": 0.367,
+      "entrada_detectou": null
+    },
+    "psi / 2 dias": {
+      "taxa_deteccao": null,
+      "atraso_mediano_dias": null,
+      "atraso_p90_dias": null,
+      "atraso_max_dias": null,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": null
+    },
+    "estat. / 2 dias": {
+      "taxa_deteccao": null,
+      "atraso_mediano_dias": null,
+      "atraso_p90_dias": null,
+      "atraso_max_dias": null,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": null
+    },
+    "ambos / 2 dias": {
+      "taxa_deteccao": null,
+      "atraso_mediano_dias": null,
+      "atraso_p90_dias": null,
+      "atraso_max_dias": null,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": null
+    },
+    "_meta": {
+      "inicio": null,
+      "alvo": null,
+      "n_seeds": 30
+    }
+  },
+  "drift_entrada": {
+    "psi / 1 dia": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 0.0,
+      "atraso_p90_dias": 0.0,
+      "atraso_max_dias": 0,
+      "sementes_com_falso_alarme": 3,
+      "dias_falsos_por_semente": 0.133,
+      "entrada_detectou": 1.0
+    },
+    "psi / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 1.0
+    },
+    "estat. / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 1.0
+    },
+    "ambos / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 1.0
+    },
+    "_meta": {
+      "inicio": 10,
+      "alvo": "tokens_prompt",
+      "n_seeds": 30
+    }
+  },
+  "drift_sutil": {
+    "psi / 1 dia": {
+      "taxa_deteccao": 0.0,
+      "atraso_mediano_dias": null,
+      "atraso_p90_dias": null,
+      "atraso_max_dias": null,
+      "sementes_com_falso_alarme": 3,
+      "dias_falsos_por_semente": 0.133,
+      "entrada_detectou": 0.0
+    },
+    "psi / 2 dias": {
+      "taxa_deteccao": 0.0,
+      "atraso_mediano_dias": null,
+      "atraso_p90_dias": null,
+      "atraso_max_dias": null,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "estat. / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 3,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 1.0
+    },
+    "ambos / 2 dias": {
+      "taxa_deteccao": 0.0,
+      "atraso_mediano_dias": null,
+      "atraso_p90_dias": null,
+      "atraso_max_dias": null,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "_meta": {
+      "inicio": 10,
+      "alvo": "tokens_prompt",
+      "n_seeds": 30
+    }
+  },
+  "drift_categorias": {
+    "psi / 1 dia": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 0.0,
+      "atraso_p90_dias": 0.0,
+      "atraso_max_dias": 0,
+      "sementes_com_falso_alarme": 4,
+      "dias_falsos_por_semente": 0.167,
+      "entrada_detectou": 1.0
+    },
+    "psi / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 1.0
+    },
+    "estat. / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 1.0
+    },
+    "ambos / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 1.0
+    },
+    "_meta": {
+      "inicio": 12,
+      "alvo": "categoria",
+      "n_seeds": 30
+    }
+  },
+  "queda_qualidade": {
+    "psi / 1 dia": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 0.0,
+      "atraso_p90_dias": 2.0,
+      "atraso_max_dias": 3,
+      "sementes_com_falso_alarme": 5,
+      "dias_falsos_por_semente": 0.2,
+      "entrada_detectou": 0.0
+    },
+    "psi / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 2.0,
+      "atraso_p90_dias": 6.100000000000001,
+      "atraso_max_dias": 14,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "estat. / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 2.0,
+      "atraso_p90_dias": 6.100000000000001,
+      "atraso_max_dias": 14,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "ambos / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 2.0,
+      "atraso_p90_dias": 6.100000000000001,
+      "atraso_max_dias": 14,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "_meta": {
+      "inicio": 14,
+      "alvo": "qualidade",
+      "n_seeds": 30
+    }
+  },
+  "latencia": {
+    "psi / 1 dia": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 0.0,
+      "atraso_p90_dias": 0.0,
+      "atraso_max_dias": 0,
+      "sementes_com_falso_alarme": 6,
+      "dias_falsos_por_semente": 0.233,
+      "entrada_detectou": 0.0
+    },
+    "psi / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "estat. / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "ambos / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "_meta": {
+      "inicio": 16,
+      "alvo": "latencia_p95",
+      "n_seeds": 30
+    }
+  },
+  "aumento_erros": {
+    "psi / 1 dia": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 0.0,
+      "atraso_p90_dias": 0.0,
+      "atraso_max_dias": 0,
+      "sementes_com_falso_alarme": 6,
+      "dias_falsos_por_semente": 0.267,
+      "entrada_detectou": 0.0
+    },
+    "psi / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "estat. / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "ambos / 2 dias": {
+      "taxa_deteccao": 1.0,
+      "atraso_mediano_dias": 1.0,
+      "atraso_p90_dias": 1.0,
+      "atraso_max_dias": 1,
+      "sementes_com_falso_alarme": 0,
+      "dias_falsos_por_semente": 0.0,
+      "entrada_detectou": 0.0
+    },
+    "_meta": {
+      "inicio": 18,
+      "alvo": "taxa_erro",
+      "n_seeds": 30
+    }
+  }
+}
